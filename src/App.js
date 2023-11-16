@@ -6,7 +6,7 @@ import GasBuddyComponent from './GasBuddyComponent';
 const App = () => {
   return (
     <div>
-      <h1 align="Center">Richmond Lowest Gas Prices</h1>
+      <h1 align="Center">Richmond Lowest Gas Prices!</h1>
       {/* Your existing content */}
       <GasBuddyComponent />
     </div>
